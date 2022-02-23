@@ -1,0 +1,22 @@
+ Objects and its internal representation in Javascript
+ 
+ 
+
+•	Objects in JavaScript is its most important data type and forms the building blocks for modern JavaScript. These objects are quite different from JavaScript’s primitive data types(Number, String, Boolean, null, undefined and symbol) in the sense that while these primitive data-types all store a single value.
+
+•	Objects are more complex and each object may contain any combination of these primitive data types as well as reference data types.
+
+
+•	We can  access the properties of an object with a simple dot-notation.
+
+•	Objects can also be accessed or set using a bracket notation.
+
+
+•	We can define a property by assigning it a value.
+
+•	An object property name can be any valid JavaScript string, or anything that can be converted to a string.
+
+
+•	We can also access properties by using a string value that is stored in a variable.
+
+
