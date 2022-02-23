@@ -1,0 +1,22 @@
+HTTP 1.1 
+
+•	HTTP is a top-level application protocol that exchanges information between a client computer and a local or remote web server.
+
+•	A client sends a text-based request to a server by calling a method like GET or POST.
+
+•	It takes care of this problem by introducing persistent connections and pipelining. 
+
+•	It keeps all requests and responses in plain text format.
+
+HTTP 2
+
+•	It uses the binary framing layer to encapsulate all messages in binary format.
+ 
+•	The binary framing layer encodes requests/responses and cuts them up into smaller packets of information.
+ 
+•	Multiplexes streams of data within a single TCP (transport layer) connection.
+ 
+•	Enables multiple concurrent responses to a client’s initial GET request.
+ 
+•	It can split headers from their data, resulting in a header frame and a data frame.
+
